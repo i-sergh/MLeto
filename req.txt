@@ -1,0 +1,9 @@
+opencv-python
+
+matplotlib
+
+notebook
+ipywidgets
+
+tensorflow
+keras
