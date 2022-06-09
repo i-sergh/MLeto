@@ -7,3 +7,4 @@ ipywidgets
 
 tensorflow
 keras
+scikit-learn
