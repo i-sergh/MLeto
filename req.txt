@@ -1,10 +1,13 @@
 opencv-python
 
-matplotlib
-
 notebook
 ipywidgets
 
 tensorflow
 keras
 scikit-learn
+
+matplotlib
+seaborn
+
+ipympl
